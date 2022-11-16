@@ -1,0 +1,11 @@
+C:\Users\Jupisoft\Documents\Visual Studio 2022\Projects\Pride Flags\Pride Flags\bin\Debug\Pride Flags.exe.config
+C:\Users\Jupisoft\Documents\Visual Studio 2022\Projects\Pride Flags\Pride Flags\bin\Debug\Pride Flags.exe
+C:\Users\Jupisoft\Documents\Visual Studio 2022\Projects\Pride Flags\Pride Flags\bin\Debug\Pride Flags.pdb
+C:\Users\Jupisoft\Documents\Visual Studio 2022\Projects\Pride Flags\Pride Flags\obj\Debug\Pride Flags.csproj.AssemblyReference.cache
+C:\Users\Jupisoft\Documents\Visual Studio 2022\Projects\Pride Flags\Pride Flags\obj\Debug\Pride Flags.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jupisoft\Documents\Visual Studio 2022\Projects\Pride Flags\Pride Flags\obj\Debug\Pride_Flags.Form_Main.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2022\Projects\Pride Flags\Pride Flags\obj\Debug\Pride_Flags.Properties.Resources.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2022\Projects\Pride Flags\Pride Flags\obj\Debug\Pride Flags.csproj.GenerateResource.cache
+C:\Users\Jupisoft\Documents\Visual Studio 2022\Projects\Pride Flags\Pride Flags\obj\Debug\Pride Flags.csproj.CoreCompileInputs.cache
+C:\Users\Jupisoft\Documents\Visual Studio 2022\Projects\Pride Flags\Pride Flags\obj\Debug\Pride Flags.exe
+C:\Users\Jupisoft\Documents\Visual Studio 2022\Projects\Pride Flags\Pride Flags\obj\Debug\Pride Flags.pdb
