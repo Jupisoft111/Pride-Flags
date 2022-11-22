@@ -11,3 +11,5 @@ Note: please look at each release to see the latest changes and updates!
 ![255 Pride Flags Full HD](https://user-images.githubusercontent.com/28818179/203181762-d134cf9f-cdf2-4dc9-97b5-5250d2e28327.png)
 
 ![Pride Flags 2022_11_21_12_20_34_143](https://user-images.githubusercontent.com/28818179/203182962-327c29a1-dc77-45c8-b08b-d548db9a2b5e.png)
+
+Thanks a lot for your interest in my tools and have a great day :-)
